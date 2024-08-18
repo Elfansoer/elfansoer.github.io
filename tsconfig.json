@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "rootDir": "src/",
+        "outDir": "docs/",
+        "target": "es2017",
+        "lib": ["es2017", "DOM"],
+        "sourceMap": true,
+        "strict": true
+    }
+}
